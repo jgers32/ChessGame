@@ -6,10 +6,18 @@ Spring Semester 2021
 
 `MESS -> Modified Chess`
 
-v1.0 = Published June 30th, 2021
+**v1.0 = Published June 30th, 2021**
   - When piece is clicked, generates a random King on a random square. 
-  - Click until King is left, the last king standing wins! 
+  - Click until one King is left, the last king standing wins! 
   - Pure luck, no skill.
 
-v2.0 in the works as of June 30th, 2021 
-(Regular functioning Chess game)
+**v2.0 = in the works as of June 30th, 2021**
+ - Regular functioning Chess game
+ - Follows all normal rules of chess
+ - Updated game pieces!
+
+**v3.0 = late 2021/ early 2022**
+  - Import custom game pieces for both players!
+  - Set clock (setting can be based on user click or automatic)
+  - Reset Game and Playback options
+  
